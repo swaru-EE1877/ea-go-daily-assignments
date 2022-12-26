@@ -1,0 +1,5 @@
+[
+  { "id": 342, "name": "build-app" },
+  { "id": 123, "name": "build-server" },
+  { "id": 78, "name": "build-shared-library" }
+]
